@@ -125,7 +125,7 @@
     <img src="https://img.shields.io/badge/PLAY%20MY%20SNAKE%20GAME-ff007b?style=for-the-badge&logo=github&logoColor=white" alt="Play Snake Game" />
   </a>
   <p><em>Click the button above to play my custom snake game! Eat commits to grow your snake!</em></p>
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br />

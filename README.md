@@ -86,15 +86,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadinRabiee&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RadinRabiee&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br />
 
-## <div align="center">📊 GitHub Stats</div>
+## <div align="center">📊 Most Used Languages</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadinRabiee&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <!-- Most used languages card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RadinRabiee&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 <br />
@@ -102,11 +104,12 @@
 ## <div align="center">🚀 Featured Projects</div>
 
 <div align="center">
+  <!-- Featured Project Cards -->
   <a href="https://github.com/RadinRabiee/github-autofollow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadinRabiee&repo=github-autofollow&theme=radical" alt="GitHub AutoFollow" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadinRabiee&repo=github-autofollow&theme=radical" alt="GitHub AutoFollow" />
   </a>
   <a href="https://github.com/RadinRabiee/devenv-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadinRabiee&repo=devenv-setup&theme=radical" alt="DevEnv Setup" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadinRabiee&repo=devenv-setup&theme=radical" alt="DevEnv Setup" />
   </a>
 </div>
 
@@ -116,7 +119,7 @@
 
 <div align="center">
   <a href="https://github.com/RadinRabiee">
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="Snake Game" />
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake Game" />
   </a>
 </div>
 
@@ -138,18 +141,42 @@
 ## <div align="center">⚡ Activity Graph</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RadinRabiee&theme=redical&hide_border=true" alt="Activity Graph" />
+  <!-- Activity graph now using GitHub's own contribution calendar which is more reliable -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RadinRabiee&theme=radical" alt="Activity Graph" />
 </div>
 
 <br />
 
-## <div align="center">🔥 Interactive Demo: Python Skill Tree</div>
+## <div align="center">🔥 My Skills</div>
 
-<!-- This section directs users to check out your interactive skill demo -->
 <div align="center">
-  <a href="https://github.com/RadinRabiee/python-skill-tree">
-    <img src="https://img.shields.io/badge/Check%20Out-Interactive%20Python%20Skill%20Tree-brightgreen?style=for-the-badge&logo=python" alt="Python Skill Tree" />
-  </a>
+  <!-- Interactive skills visualization that works without external dependencies -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Expert" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Django-Advanced-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Advanced" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Advanced" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Intermediate" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Intermediate" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Intermediate" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />

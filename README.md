@@ -17,13 +17,11 @@
 
 ## <div align="center">🐍 My Contribution Snake</div>
 
-<div align="center">
-  <!-- This version will show dates along with the snake animation -->
-  <a href="https://github.com/RadinRabiee">
-    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation with dates" />
-  </a>
-  <p><em>⬆️ Watch this snake eat my actual GitHub contributions! ⬆️</em></p>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NimaWasTaken/NimaWasTaken/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NimaWasTaken/NimaWasTaken/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NimaWasTaken/NimaWasTaken/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br />
 

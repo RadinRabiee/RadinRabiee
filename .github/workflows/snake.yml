@@ -30,15 +30,22 @@ jobs:
 
       # Generates the snake
       - name: Generate the snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           # Your GitHub username
           github_user_name: ${{ github.repository_owner }}
-          # These outputs will be generated in a directory called "dist"
+          # Use the advanced SVG outputs with a more detailed snake
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#ff007b&color_dots=#044289,#0969da,#2188ff,#39d353,#26a641
+          
+          # Generate a snake with a head and special colors
+          snake_color: "#ff007b"
+          color_snake_mouth: "#000"
+          color_snake_tongue: "#ff0000"
+          
+          # Use a customized body shape for the snake
+          snake_body: "speechbubble"
 
       # Pushes the content of <build_dir> to the repository's "output" branch
       - name: Push snake to output branch

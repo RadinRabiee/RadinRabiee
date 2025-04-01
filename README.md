@@ -18,7 +18,10 @@
 ## <div align="center">🐍 Contributions Snake</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- This uses a pre-existing snake animation until your GitHub Action generates yours -->
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Once your GitHub Action is set up, you can switch to: -->
+  <!-- <img src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
 </div>
 
 <br />

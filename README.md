@@ -18,12 +18,10 @@
 ## <div align="center">🐍 My Contribution Snake</div>
 
 <div align="center">
-  <!-- This will display your actual contributions with a styled snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
-  </picture>
+  <!-- This version will show dates along with the snake animation -->
+  <a href="https://github.com/RadinRabiee">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation with dates" />
+  </a>
   <p><em>⬆️ Watch this snake eat my actual GitHub contributions! ⬆️</em></p>
 </div>
 
@@ -209,13 +207,21 @@ radinrabiee@github:~$ neofetch
 ## <div align="center">📚 Current Learning Path</div>
 
 <div align="center">
-  <img src="https://progress-bar.dev/75?title=Python%20Advanced&width=300&color=ff007b" alt="Python Advanced" />
-  <br>
-  <img src="https://progress-bar.dev/60?title=Django%20Framework&width=300&color=58a6ff" alt="Django Framework" />
-  <br>
-  <img src="https://progress-bar.dev/40?title=System%20Architecture&width=300&color=8957e5" alt="System Architecture" />
-  <br>
-  <img src="https://progress-bar.dev/30?title=DevOps%20Practices&width=300&color=f78166" alt="DevOps Practices" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python_Advanced-75%25-ff007b?style=for-the-badge&logo=python&logoColor=white" alt="Python Advanced 75%" />
+  </a>
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Django_Framework-60%25-58a6ff?style=for-the-badge&logo=django&logoColor=white" alt="Django Framework 60%" />
+  </a>
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/System_Architecture-40%25-8957e5?style=for-the-badge&logo=architecture&logoColor=white" alt="System Architecture 40%" />
+  </a>
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DevOps_Practices-30%25-f78166?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps Practices 30%" />
+  </a>
 </div>
 
 <br />

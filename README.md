@@ -118,15 +118,7 @@
 
 <br />
 
-## <div align="center">🎮 Play My Snake Game!</div>
 
-<div align="center">
-  <a href="https://radinrabiee.github.io/snake-game/" target="_blank">
-    <img src="https://img.shields.io/badge/PLAY%20MY%20SNAKE%20GAME-ff007b?style=for-the-badge&logo=github&logoColor=white" alt="Play Snake Game" />
-  </a>
-  <p><em>Click the button above to play my custom snake game! Eat commits to grow your snake!</em></p>
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
 
 <br />
 
@@ -217,10 +209,13 @@ radinrabiee@github:~$ neofetch
 ## <div align="center">📚 Current Learning Path</div>
 
 <div align="center">
-  <img src="https://progress-bar.dev/75?title=Python%20Advanced&width=300&color=57bbdb" alt="Python Advanced" />
-  <img src="https://progress-bar.dev/60?title=Django%20Framework&width=300&color=389826" alt="Django Framework" />
-  <img src="https://progress-bar.dev/40?title=System%20Architecture&width=300&color=bb61c9" alt="System Architecture" />
-  <img src="https://progress-bar.dev/30?title=DevOps%20Practices&width=300&color=db8857" alt="DevOps Practices" />
+  <img src="https://progress-bar.dev/75?title=Python%20Advanced&width=300&color=ff007b" alt="Python Advanced" />
+  <br>
+  <img src="https://progress-bar.dev/60?title=Django%20Framework&width=300&color=58a6ff" alt="Django Framework" />
+  <br>
+  <img src="https://progress-bar.dev/40?title=System%20Architecture&width=300&color=8957e5" alt="System Architecture" />
+  <br>
+  <img src="https://progress-bar.dev/30?title=DevOps%20Practices&width=300&color=f78166" alt="DevOps Practices" />
 </div>
 
 <br />

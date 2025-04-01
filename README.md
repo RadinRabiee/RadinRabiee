@@ -118,12 +118,14 @@
 
 <br />
 
-## <div align="center">🎮 Let's Play Snake!</div>
+## <div align="center">🎮 Play My Snake Game!</div>
 
 <div align="center">
-  <a href="https://github.com/RadinRabiee">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake Game" />
+  <a href="https://radinrabiee.github.io/snake-game/" target="_blank">
+    <img src="https://img.shields.io/badge/PLAY%20MY%20SNAKE%20GAME-ff007b?style=for-the-badge&logo=github&logoColor=white" alt="Play Snake Game" />
   </a>
+  <p><em>Click the button above to play my custom snake game! Eat commits to grow your snake!</em></p>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <br />

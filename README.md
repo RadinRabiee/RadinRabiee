@@ -15,13 +15,17 @@
 
 <br />
 
-## <div align="center">🐍 My Contribution Snake</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+# <div align="center">🐍 My Contribution Snake</div>
+<div align="center">
+  <!-- This will display your actual contributions with a styled snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
+  </picture>
+  <p><em>⬆️ Watch this snake eat my actual GitHub contributions! ⬆️</em></p>
+</div>
+<br />cture>
 
 <br />
 

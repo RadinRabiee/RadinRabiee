@@ -25,7 +25,7 @@
   </picture>
   <p><em>⬆️ Watch this snake eat my actual GitHub contributions! ⬆️</em></p>
 </div>
-<br />cture>
+<br />
 
 <br />
 

@@ -15,13 +15,16 @@
 
 <br />
 
-## <div align="center">🐍 Contributions Snake</div>
+## <div align="center">🐍 My Contribution Snake</div>
 
 <div align="center">
-  <!-- This uses a pre-existing snake animation until your GitHub Action generates yours -->
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  <!-- Once your GitHub Action is set up, you can switch to: -->
-  <!-- <img src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+  <!-- This will display your actual contributions with a styled snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/RadinRabiee/RadinRabiee/output/github-snake-dark.svg" />
+  </picture>
+  <p><em>⬆️ Watch this snake eat my actual GitHub contributions! ⬆️</em></p>
 </div>
 
 <br />
